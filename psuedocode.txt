@@ -1,0 +1,11 @@
+All variables are set to 0.
+The main code loop starts.
+A couple of greeting sentences show up.
+An infinite loop starts.
+Number of gallons is asked from the user.
+If the user pust in -1, the loop breaks.
+Else, number of miles is asked from the user.
+MPG is calculated.
+The total miles and gallons are added every time the user adds different numbers.
+When the loop breaks, the Overall MPG is calculated.
+The total gallons, total miles, and overall MPG are shown.
